@@ -4,7 +4,7 @@ Convolutional Neural Network for MNIST Classification implemented in C++
 OS: Windows 10
 
 ## USAGE:
-1. Extract dataset:
+1. Extract dataset then put *.csv files at the same directory with the main source (cnn.cpp):
 ```bashrc
 mnist.rar
 ```
